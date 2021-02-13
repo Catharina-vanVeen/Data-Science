@@ -106,8 +106,8 @@ server <- function(input, output) {
     )
   })
   output$prediction = renderText({
-    paste("The predicted species is Iris", as.character(prediction()))
-    
+    string = paste("The predicted species is Iris", as.character(prediction()))
+    h1(string)
   })
 
   output$header = renderText({
