@@ -5,7 +5,7 @@
   <li><a href="#mr">Mount Rainier</a></li>
   <li><a href="#gps">Google Play Store</a></li>
   <li><a href="#isa">Iris Shiny App</a></li>
-  <li><a href="#bpb">Bosten (Power BI)</a></li>
+  <li><a href="#bpb">Boston (Power BI)</a></li>
 </ul>
 
 <h3 id="mr">Mount Rainier</h3>
