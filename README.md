@@ -4,6 +4,8 @@
 <ul>
   <li><a href="#mr">Mount Rainier</a></li>
   <li><a href="#gps">Google Play Store</a></li>
+  <li><a href="#isa">Iris Shiny App</a></li>
+  <li><a href="#bpb">Boston (Power BI)</a></li>
 </ul>
 
 <h3 id="mr">Mount Rainier</h3>
@@ -18,3 +20,12 @@ Method: Linear Regression Analysis & Two Way ANOVA test.</p>
 
 <p>“Group the apps based on Rating and Category.” </br>
 Method: K-prototypes Clustering for Mixed Categorical and Numerical data.</p>
+
+<h3 id="isa">Iris Shiny App</h3>
+<p>Web app based on the iris dataset with interactive visualizations usinf machine learning for categorization.</p>
+
+<h3 id="bpb">Boston Housing</h3>
+<p>Power BI report based on the Boston dataset, using python for data wrangling, K-means Clustering and data visualization.</p>
+
+
+
